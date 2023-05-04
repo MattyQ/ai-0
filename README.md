@@ -28,4 +28,4 @@ Please note that the AI-0 License is provided as a draft and may require review 
 
 ## License
 
-The AI-0 License is provided in this repository. See the [LICENSE](LICENSE) file for the full text of the license.
+The AI-0 License is provided in this repository. See the [LICENSE](LICENSE.md) file for the full text of the license.
